@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>租户装修手册指南</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- 动态背景 -->
+    <div class="animated-bg">
+        <div class="gradient-sphere sphere-1"></div>
+        <div class="gradient-sphere sphere-2"></div>
+        <div class="gradient-sphere sphere-3"></div>
+    </div>
+
+    <!-- 头部 -->
+    <header class="header glass">
+        <div class="header-content">
+            <div class="logo">
+                <div class="logo-icon">
+                    <i class="fas fa-home"></i>
+                </div>
+                <div class="logo-text">
+                    <h1>租户装修手册指南</h1>
+                    <span class="file-count">仅供查看，禁止下载</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- 搜索栏 -->
+    <div class="search-container glass">
+        <div class="search-box">
+            <i class="fas fa-search search-icon"></i>
+            <input type="text" id="searchInput" placeholder="搜索文件，可以模糊搜索..." autocomplete="off">
+            <button class="search-clear" id="searchClear">
+                <i class="fas fa-times-circle"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- 主内容 -->
+    <main class="main-content">
+        <div class="file-list" id="fileList"></div>
+        
+        <div class="empty-state" id="emptyState">
+            <div class="empty-icon">
+                <i class="fas fa-search"></i>
+            </div>
+            <p>未找到文件</p>
+        </div>
+    </main>
+
+    <!-- 文件预览弹窗 -->
+    <div class="preview-modal" id="previewModal">
+        <div class="preview-backdrop"></div>
+        <div class="preview-content glass-heavy">
+            <div class="preview-header">
+                <button class="preview-back" id="previewClose">
+                    <i class="fas fa-chevron-down"></i>
+                </button>
+                <h3 id="previewTitle">文件预览</h3>
+                <div class="preview-actions">
+                    <button class="action-btn" id="previewShare">
+                        <i class="fas fa-share-alt"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="preview-body" id="previewBody"></div>
+        </div>
+    </div>
+
+    <!-- 底部 -->
+    <footer class="footer glass">
+        <p><i class="fas fa-shield-alt"></i> 仅供查看，禁止下载</p>
+    </footer>
+
+    <script src="js/data.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

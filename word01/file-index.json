@@ -1,0 +1,410 @@
+{
+  "id": "root",
+  "name": "租户装修手册指南",
+  "type": "folder",
+  "scanTime": "2026-02-13T07:11:06.571Z",
+  "totalFiles": 40,
+  "totalFolders": 0,
+  "children": [
+    {
+      "id": "file-17709666665670",
+      "name": "cqsg-zy-kf01（b06）夜间白天施工申请单.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 110373,
+      "sizeFormatted": "107.8 KB",
+      "url": "files/cqsg-zy-kf01%EF%BC%88b06%EF%BC%89%E5%A4%9C%E9%97%B4%E7%99%BD%E5%A4%A9%E6%96%BD%E5%B7%A5%E7%94%B3%E8%AF%B7%E5%8D%95.pdf",
+      "modifiedTime": "2026-02-13T07:02:26.860Z"
+    },
+    {
+      "id": "file-17709666665681",
+      "name": "cqsg-zy-kf01（b08）卸货申请单.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 70511,
+      "sizeFormatted": "68.9 KB",
+      "url": "files/cqsg-zy-kf01%EF%BC%88b08%EF%BC%89%E5%8D%B8%E8%B4%A7%E7%94%B3%E8%AF%B7%E5%8D%95.pdf",
+      "modifiedTime": "2026-02-13T07:02:29.892Z"
+    },
+    {
+      "id": "file-17709666665682",
+      "name": "cqsg-zy-kf01（b09）物品放行条.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 130322,
+      "sizeFormatted": "127.3 KB",
+      "url": "files/cqsg-zy-kf01%EF%BC%88b09%EF%BC%89%E7%89%A9%E5%93%81%E6%94%BE%E8%A1%8C%E6%9D%A1.pdf",
+      "modifiedTime": "2026-02-13T07:02:39.902Z"
+    },
+    {
+      "id": "file-17709666665683",
+      "name": "CRML-C-SY-KF-005-F06 《动火作业许可证》一级.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 131144,
+      "sizeFormatted": "128.1 KB",
+      "url": "files/CRML-C-SY-KF-005-F06%20%E3%80%8A%E5%8A%A8%E7%81%AB%E4%BD%9C%E4%B8%9A%E8%AE%B8%E5%8F%AF%E8%AF%81%E3%80%8B%E4%B8%80%E7%BA%A7.pdf",
+      "modifiedTime": "2026-02-13T07:02:43.273Z"
+    },
+    {
+      "id": "file-17709666665684",
+      "name": "CRML-C-SY-KF-005-F07 《高处作业许可证》5米以下.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 134095,
+      "sizeFormatted": "131 KB",
+      "url": "files/CRML-C-SY-KF-005-F07%20%E3%80%8A%E9%AB%98%E5%A4%84%E4%BD%9C%E4%B8%9A%E8%AE%B8%E5%8F%AF%E8%AF%81%E3%80%8B5%E7%B1%B3%E4%BB%A5%E4%B8%8B.pdf",
+      "modifiedTime": "2026-02-13T07:02:46.682Z"
+    },
+    {
+      "id": "file-17709666665685",
+      "name": "《动火作业许可证》二级.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 130734,
+      "sizeFormatted": "127.7 KB",
+      "url": "files/%E3%80%8A%E5%8A%A8%E7%81%AB%E4%BD%9C%E4%B8%9A%E8%AE%B8%E5%8F%AF%E8%AF%81%E3%80%8B%E4%BA%8C%E7%BA%A7.pdf",
+      "modifiedTime": "2026-02-13T07:02:33.177Z"
+    },
+    {
+      "id": "file-17709666665686",
+      "name": "《安全施工管理协议》前台办理模板.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 164587,
+      "sizeFormatted": "160.7 KB",
+      "url": "files/%E3%80%8A%E5%AE%89%E5%85%A8%E6%96%BD%E5%B7%A5%E7%AE%A1%E7%90%86%E5%8D%8F%E8%AE%AE%E3%80%8B%E5%89%8D%E5%8F%B0%E5%8A%9E%E7%90%86%E6%A8%A1%E6%9D%BF.pdf",
+      "modifiedTime": "2026-02-10T08:36:35.536Z"
+    },
+    {
+      "id": "file-17709666665687",
+      "name": "《店铺接场验收表》前台办理模板.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 107673,
+      "sizeFormatted": "105.1 KB",
+      "url": "files/%E3%80%8A%E5%BA%97%E9%93%BA%E6%8E%A5%E5%9C%BA%E9%AA%8C%E6%94%B6%E8%A1%A8%E3%80%8B%E5%89%8D%E5%8F%B0%E5%8A%9E%E7%90%86%E6%A8%A1%E6%9D%BF.pdf",
+      "modifiedTime": "2026-02-10T08:36:35.706Z"
+    },
+    {
+      "id": "file-17709666665698",
+      "name": "《撤场施工许可证》.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 76588,
+      "sizeFormatted": "74.8 KB",
+      "url": "files/%E3%80%8A%E6%92%A4%E5%9C%BA%E6%96%BD%E5%B7%A5%E8%AE%B8%E5%8F%AF%E8%AF%81%E3%80%8B.pdf",
+      "modifiedTime": "2026-02-13T07:02:23.672Z"
+    },
+    {
+      "id": "file-17709666665699",
+      "name": "《施工人员出入证申请表》前台办理模板.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 84242,
+      "sizeFormatted": "82.3 KB",
+      "url": "files/%E3%80%8A%E6%96%BD%E5%B7%A5%E4%BA%BA%E5%91%98%E5%87%BA%E5%85%A5%E8%AF%81%E7%94%B3%E8%AF%B7%E8%A1%A8%E3%80%8B%E5%89%8D%E5%8F%B0%E5%8A%9E%E7%90%86%E6%A8%A1%E6%9D%BF.pdf",
+      "modifiedTime": "2026-02-10T08:36:36.066Z"
+    },
+    {
+      "id": "file-177096666656910",
+      "name": "《施工人员出入证申请表》前台办理模板。.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 84242,
+      "sizeFormatted": "82.3 KB",
+      "url": "files/%E3%80%8A%E6%96%BD%E5%B7%A5%E4%BA%BA%E5%91%98%E5%87%BA%E5%85%A5%E8%AF%81%E7%94%B3%E8%AF%B7%E8%A1%A8%E3%80%8B%E5%89%8D%E5%8F%B0%E5%8A%9E%E7%90%86%E6%A8%A1%E6%9D%BF%E3%80%82.pdf",
+      "modifiedTime": "2026-02-10T08:36:35.937Z"
+    },
+    {
+      "id": "file-177096666656911",
+      "name": "《施工授权委托书》办理模板.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 75114,
+      "sizeFormatted": "73.4 KB",
+      "url": "files/%E3%80%8A%E6%96%BD%E5%B7%A5%E6%8E%88%E6%9D%83%E5%A7%94%E6%89%98%E4%B9%A6%E3%80%8B%E5%8A%9E%E7%90%86%E6%A8%A1%E6%9D%BF.pdf",
+      "modifiedTime": "2026-02-10T08:36:36.154Z"
+    },
+    {
+      "id": "file-177096666656912",
+      "name": "《消防承诺书》办理模板.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 77382,
+      "sizeFormatted": "75.6 KB",
+      "url": "files/%E3%80%8A%E6%B6%88%E9%98%B2%E6%89%BF%E8%AF%BA%E4%B9%A6%E3%80%8B%E5%8A%9E%E7%90%86%E6%A8%A1%E6%9D%BF.pdf",
+      "modifiedTime": "2026-02-10T08:36:36.357Z"
+    },
+    {
+      "id": "file-177096666656913",
+      "name": "《装修许可申请表》.docx.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 172932,
+      "sizeFormatted": "168.9 KB",
+      "url": "files/%E3%80%8A%E8%A3%85%E4%BF%AE%E8%AE%B8%E5%8F%AF%E7%94%B3%E8%AF%B7%E8%A1%A8%E3%80%8B.docx.pdf",
+      "modifiedTime": "2026-02-10T08:36:36.612Z"
+    },
+    {
+      "id": "file-177096666656914",
+      "name": "《装修许可证》前台办理模板.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 149607,
+      "sizeFormatted": "146.1 KB",
+      "url": "files/%E3%80%8A%E8%A3%85%E4%BF%AE%E8%AE%B8%E5%8F%AF%E8%AF%81%E3%80%8B%E5%89%8D%E5%8F%B0%E5%8A%9E%E7%90%86%E6%A8%A1%E6%9D%BF.pdf",
+      "modifiedTime": "2026-02-10T08:36:36.693Z"
+    },
+    {
+      "id": "file-177096666656915",
+      "name": "《高处作业许可证》二级.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 133991,
+      "sizeFormatted": "130.9 KB",
+      "url": "files/%E3%80%8A%E9%AB%98%E5%A4%84%E4%BD%9C%E4%B8%9A%E8%AE%B8%E5%8F%AF%E8%AF%81%E3%80%8B%E4%BA%8C%E7%BA%A7.pdf",
+      "modifiedTime": "2026-02-13T07:02:36.498Z"
+    },
+    {
+      "id": "file-177096666656916",
+      "name": "出入证模板.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 153260,
+      "sizeFormatted": "149.7 KB",
+      "url": "files/%E5%87%BA%E5%85%A5%E8%AF%81%E6%A8%A1%E6%9D%BF.pdf",
+      "modifiedTime": "2026-02-13T07:02:49.859Z"
+    },
+    {
+      "id": "file-177096666656917",
+      "name": "泄水申请单-.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 154776,
+      "sizeFormatted": "151.1 KB",
+      "url": "files/%E6%B3%84%E6%B0%B4%E7%94%B3%E8%AF%B7%E5%8D%95-.pdf",
+      "modifiedTime": "2026-02-13T07:03:06.345Z"
+    },
+    {
+      "id": "file-177096666656918",
+      "name": "消防中断许可证.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 140407,
+      "sizeFormatted": "137.1 KB",
+      "url": "files/%E6%B6%88%E9%98%B2%E4%B8%AD%E6%96%AD%E8%AE%B8%E5%8F%AF%E8%AF%81.pdf",
+      "modifiedTime": "2026-02-13T07:03:03.043Z"
+    },
+    {
+      "id": "file-177096666656919",
+      "name": "消防泄水提供--装修授权委托书.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 95963,
+      "sizeFormatted": "93.7 KB",
+      "url": "files/%E6%B6%88%E9%98%B2%E6%B3%84%E6%B0%B4%E6%8F%90%E4%BE%9B--%E8%A3%85%E4%BF%AE%E6%8E%88%E6%9D%83%E5%A7%94%E6%89%98%E4%B9%A6.pdf",
+      "modifiedTime": "2026-02-13T07:02:59.653Z"
+    },
+    {
+      "id": "file-177096666656920",
+      "name": "起重吊装作业审批表.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 262878,
+      "sizeFormatted": "256.7 KB",
+      "url": "files/%E8%B5%B7%E9%87%8D%E5%90%8A%E8%A3%85%E4%BD%9C%E4%B8%9A%E5%AE%A1%E6%89%B9%E8%A1%A8.pdf",
+      "modifiedTime": "2026-02-13T07:02:56.530Z"
+    },
+    {
+      "id": "file-177096666657021",
+      "name": "重庆万象城装修进场资料清单.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 179472,
+      "sizeFormatted": "175.3 KB",
+      "url": "files/%E9%87%8D%E5%BA%86%E4%B8%87%E8%B1%A1%E5%9F%8E%E8%A3%85%E4%BF%AE%E8%BF%9B%E5%9C%BA%E8%B5%84%E6%96%99%E6%B8%85%E5%8D%95.pdf",
+      "modifiedTime": "2026-02-13T07:03:09.837Z"
+    },
+    {
+      "id": "file-177096666657022",
+      "name": "附件1-撤场费用.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 305511,
+      "sizeFormatted": "298.4 KB",
+      "url": "files/%E9%99%84%E4%BB%B61-%E6%92%A4%E5%9C%BA%E8%B4%B9%E7%94%A8.pdf",
+      "modifiedTime": "2026-02-10T08:36:38.102Z"
+    },
+    {
+      "id": "file-177096666657023",
+      "name": "附件1-装修费用.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 610876,
+      "sizeFormatted": "596.6 KB",
+      "url": "files/%E9%99%84%E4%BB%B61-%E8%A3%85%E4%BF%AE%E8%B4%B9%E7%94%A8.pdf",
+      "modifiedTime": "2026-02-10T08:36:38.950Z"
+    },
+    {
+      "id": "file-177096666657024",
+      "name": "附件11-全套图纸.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 2626811,
+      "sizeFormatted": "2.5 MB",
+      "url": "files/%E9%99%84%E4%BB%B611-%E5%85%A8%E5%A5%97%E5%9B%BE%E7%BA%B8.pdf",
+      "modifiedTime": "2026-02-10T08:36:39.704Z"
+    },
+    {
+      "id": "file-177096666657025",
+      "name": "附件12-用电容量申请确认书.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 499722,
+      "sizeFormatted": "488 KB",
+      "url": "files/%E9%99%84%E4%BB%B612-%E7%94%A8%E7%94%B5%E5%AE%B9%E9%87%8F%E7%94%B3%E8%AF%B7%E7%A1%AE%E8%AE%A4%E4%B9%A6.pdf",
+      "modifiedTime": "2026-02-10T08:36:38.694Z"
+    },
+    {
+      "id": "file-177096666657026",
+      "name": "附件14-施工违约处理细则.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 766289,
+      "sizeFormatted": "748.3 KB",
+      "url": "files/%E9%99%84%E4%BB%B614-%E6%96%BD%E5%B7%A5%E8%BF%9D%E7%BA%A6%E5%A4%84%E7%90%86%E7%BB%86%E5%88%99.pdf",
+      "modifiedTime": "2026-02-10T08:36:39.490Z"
+    },
+    {
+      "id": "file-177096666657027",
+      "name": "附件16-施工进度表.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 71034,
+      "sizeFormatted": "69.4 KB",
+      "url": "files/%E9%99%84%E4%BB%B616-%E6%96%BD%E5%B7%A5%E8%BF%9B%E5%BA%A6%E8%A1%A8.pdf",
+      "modifiedTime": "2026-02-13T07:03:13.783Z"
+    },
+    {
+      "id": "file-177096666657028",
+      "name": "附件16-施工进度表.xlsx",
+      "type": "file",
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": 13781,
+      "sizeFormatted": "13.5 KB",
+      "url": "files/%E9%99%84%E4%BB%B616-%E6%96%BD%E5%B7%A5%E8%BF%9B%E5%BA%A6%E8%A1%A8.xlsx",
+      "modifiedTime": "2026-02-10T08:36:39.410Z"
+    },
+    {
+      "id": "file-177096666657029",
+      "name": "附件17-装修还原承诺书（含还原照片）.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 2882150,
+      "sizeFormatted": "2.7 MB",
+      "url": "files/%E9%99%84%E4%BB%B617-%E8%A3%85%E4%BF%AE%E8%BF%98%E5%8E%9F%E6%89%BF%E8%AF%BA%E4%B9%A6%EF%BC%88%E5%90%AB%E8%BF%98%E5%8E%9F%E7%85%A7%E7%89%87%EF%BC%89.pdf",
+      "modifiedTime": "2026-02-10T08:36:40.979Z"
+    },
+    {
+      "id": "file-177096666657030",
+      "name": "附件18-消防资质.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 3787763,
+      "sizeFormatted": "3.6 MB",
+      "url": "files/%E9%99%84%E4%BB%B618-%E6%B6%88%E9%98%B2%E8%B5%84%E8%B4%A8.pdf",
+      "modifiedTime": "2026-02-10T08:36:41.086Z"
+    },
+    {
+      "id": "file-177096666657031",
+      "name": "附件2-营业执照、建筑资质、安全许可证。.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 3526324,
+      "sizeFormatted": "3.4 MB",
+      "url": "files/%E9%99%84%E4%BB%B62-%E8%90%A5%E4%B8%9A%E6%89%A7%E7%85%A7%E3%80%81%E5%BB%BA%E7%AD%91%E8%B5%84%E8%B4%A8%E3%80%81%E5%AE%89%E5%85%A8%E8%AE%B8%E5%8F%AF%E8%AF%81%E3%80%82.pdf",
+      "modifiedTime": "2026-02-10T08:36:44.827Z"
+    },
+    {
+      "id": "file-177096666657032",
+      "name": "附件3-授权委托证明书。.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 378135,
+      "sizeFormatted": "369.3 KB",
+      "url": "files/%E9%99%84%E4%BB%B63-%E6%8E%88%E6%9D%83%E5%A7%94%E6%89%98%E8%AF%81%E6%98%8E%E4%B9%A6%E3%80%82.pdf",
+      "modifiedTime": "2026-02-10T08:36:41.676Z"
+    },
+    {
+      "id": "file-177096666657133",
+      "name": "附件3-营业执照、建筑资质、安全许可证.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 3529162,
+      "sizeFormatted": "3.4 MB",
+      "url": "files/%E9%99%84%E4%BB%B63-%E8%90%A5%E4%B8%9A%E6%89%A7%E7%85%A7%E3%80%81%E5%BB%BA%E7%AD%91%E8%B5%84%E8%B4%A8%E3%80%81%E5%AE%89%E5%85%A8%E8%AE%B8%E5%8F%AF%E8%AF%81.pdf",
+      "modifiedTime": "2026-02-10T08:36:43.036Z"
+    },
+    {
+      "id": "file-177096666657134",
+      "name": "附件4-法定代表人证明书 & 法人授权委托证明书.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 461636,
+      "sizeFormatted": "450.8 KB",
+      "url": "files/%E9%99%84%E4%BB%B64-%E6%B3%95%E5%AE%9A%E4%BB%A3%E8%A1%A8%E4%BA%BA%E8%AF%81%E6%98%8E%E4%B9%A6%20%26%20%E6%B3%95%E4%BA%BA%E6%8E%88%E6%9D%83%E5%A7%94%E6%89%98%E8%AF%81%E6%98%8E%E4%B9%A6.pdf",
+      "modifiedTime": "2026-02-10T08:36:42.374Z"
+    },
+    {
+      "id": "file-177096666657135",
+      "name": "附件5-店铺装修施工人员备查单。.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 1991403,
+      "sizeFormatted": "1.9 MB",
+      "url": "files/%E9%99%84%E4%BB%B65-%E5%BA%97%E9%93%BA%E8%A3%85%E4%BF%AE%E6%96%BD%E5%B7%A5%E4%BA%BA%E5%91%98%E5%A4%87%E6%9F%A5%E5%8D%95%E3%80%82.pdf",
+      "modifiedTime": "2026-02-10T08:36:43.550Z"
+    },
+    {
+      "id": "file-177096666657136",
+      "name": "附件6-店铺装修施工人员备查单.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 1938856,
+      "sizeFormatted": "1.8 MB",
+      "url": "files/%E9%99%84%E4%BB%B66-%E5%BA%97%E9%93%BA%E8%A3%85%E4%BF%AE%E6%96%BD%E5%B7%A5%E4%BA%BA%E5%91%98%E5%A4%87%E6%9F%A5%E5%8D%95.pdf",
+      "modifiedTime": "2026-02-10T08:36:44.352Z"
+    },
+    {
+      "id": "file-177096666657137",
+      "name": "附件6-装修保险（一切险、团意险）。.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 1620451,
+      "sizeFormatted": "1.5 MB",
+      "url": "files/%E9%99%84%E4%BB%B66-%E8%A3%85%E4%BF%AE%E4%BF%9D%E9%99%A9%EF%BC%88%E4%B8%80%E5%88%87%E9%99%A9%E3%80%81%E5%9B%A2%E6%84%8F%E9%99%A9%EF%BC%89%E3%80%82.pdf",
+      "modifiedTime": "2026-02-10T08:36:44.426Z"
+    },
+    {
+      "id": "file-177096666657138",
+      "name": "附件7-特种作业人员操作证.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 188581,
+      "sizeFormatted": "184.2 KB",
+      "url": "files/%E9%99%84%E4%BB%B67-%E7%89%B9%E7%A7%8D%E4%BD%9C%E4%B8%9A%E4%BA%BA%E5%91%98%E6%93%8D%E4%BD%9C%E8%AF%81.pdf",
+      "modifiedTime": "2026-02-13T07:02:52.804Z"
+    },
+    {
+      "id": "file-177096666657139",
+      "name": "附件8-装修保险（一切险、团意险）.pdf",
+      "type": "file",
+      "mimeType": "application/pdf",
+      "size": 1620451,
+      "sizeFormatted": "1.5 MB",
+      "url": "files/%E9%99%84%E4%BB%B68-%E8%A3%85%E4%BF%AE%E4%BF%9D%E9%99%A9%EF%BC%88%E4%B8%80%E5%88%87%E9%99%A9%E3%80%81%E5%9B%A2%E6%84%8F%E9%99%A9%EF%BC%89.pdf",
+      "modifiedTime": "2026-02-10T08:36:45.463Z"
+    }
+  ]
+}
